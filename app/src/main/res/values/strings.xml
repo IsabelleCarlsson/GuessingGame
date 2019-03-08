@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="button">Guess</string>
+    <string name="hint">1 &#8211; 10</string>
+</resources>
